@@ -1,1 +1,1 @@
-nasm ./src/bootloader.asm -o ./bin/boot.flp
+g++ "./src/main.cpp" -o "./bin/chlorine.exe"

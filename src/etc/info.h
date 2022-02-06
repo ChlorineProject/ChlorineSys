@@ -1,0 +1,1 @@
+const char * CHLORINE_VERSION = "1.0.0";
