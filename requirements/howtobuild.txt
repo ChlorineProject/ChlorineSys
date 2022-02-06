@@ -1,0 +1,10 @@
+ABOUT XLANG:
+	TO BUILD AND INSTALL XLANG:
+		cd xlang
+		make
+		sudo make install
+	TO UNINSTALL XLANG:
+		cd xlang
+		sudo make remove
+	MANUAL FOR XLANG:
+		man xlang
