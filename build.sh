@@ -1,0 +1,1 @@
+nasm ./src/bootloader.asm -o ./bin/boot.flp
